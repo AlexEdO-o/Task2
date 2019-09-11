@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+task11.Main-Class: task11.task11.Main
+
